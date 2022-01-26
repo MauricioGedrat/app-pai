@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+.Principal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-top: 200px;
+}
+.aside {
+  position: absolute;
+  top: -10px;
+}
